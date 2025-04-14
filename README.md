@@ -60,8 +60,12 @@ Chrome을 실행하고 오른쪽 상단의 점 세 개 아이콘을 클릭한 �
 ChromeDriver 다운로드 링크 https://googlechromelabs.github.io/chrome-for-testing/
 에 접속해서 자신의 Chrome 버전에 맞는 드라이버를 다운로드합니다.​
 
+최신 버전크롬에서는 그냥 아래 파일을 받으면됩니다.
+https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win64/chrome-win64.zip
+
+
 ### ChromeDriver 위치 지정
-다운로드한 chromedriver.exe 파일을 성실연수 실행파일과 동일한 폴더에 위치시킵니다.​
+다운로드한 zip으ㄹ 풀면 나오는 chromedriver.exe 파일을 성실연수 실행파일과 동일한 폴더에 위치시킵니다.​
 
 ### 프로그램 재실행
 
