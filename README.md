@@ -42,6 +42,31 @@
 
 ---
 
+## 🛠 이슈 해결1: 크롬 드라이버 오류
+프로그램 실행 시 아래와 같은 오류 메시지가 나타난다면, 크롬 드라이버 설정 문제일 수 있습니다:​
+
+"브라우저 실행 중 오류가 발생했습니다: Unable to obtain driver for chrome using Selenium Manager"​
+
+이 오류는 Selenium이 Chrome 드라이버를 자동으로 찾지 못할 때 발생합니다. 사용자가 아래의 단계를 따라 문제를 해결할 수 있습니다.​
+
+✅ 해결 방법
+
+###우선 Chrome이 설치되어 있어야 합니다.​
+
+### 크롬드라이버 다운로드
+Chrome을 실행하고 오른쪽 상단의 점 세 개 아이콘을 클릭한 후, 도움말 > Chrome 정보를 선택합니다.​
+버전 정보를 확인합니다. (예: 버전 134.0.6998.178)
+
+ChromeDriver 다운로드 링크 https://googlechromelabs.github.io/chrome-for-testing/
+Chrome 버전에 맞는 드라이버를 다운로드합니다.​
+
+### ChromeDriver 위치 지정
+다운로드한 chromedriver.exe 파일을 성실연수 실행파일과 동일한 폴더에 위치시킵니다.​
+
+### 프로그램 재실행
+
+---
+
 ## 📬 문의하기
 
 - 이메일 : [sk8bty@gmail.com](mailto:sk8bty@gmail.com)
