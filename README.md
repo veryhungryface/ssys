@@ -56,9 +56,11 @@ Chrome을 실행하고 오른쪽 상단의 점 세 개 아이콘을 클릭한 �
 버전 정보를 확인합니다. (예: 버전 134.0.6998.178)
 
 ChromeDriver 다운로드 링크 https://googlechromelabs.github.io/chrome-for-testing/
+
 에 접속해서 자신의 Chrome 버전에 맞는 드라이버를 다운로드합니다.​
 
 최신 버전크롬에서는 그냥 아래 파일을 받으면됩니다.
+
 https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win64/chrome-win64.zip
 
 
