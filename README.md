@@ -61,6 +61,7 @@ ChromeDriver 다운로드 링크 https://googlechromelabs.github.io/chrome-for-t
 ![image](https://github.com/user-attachments/assets/97ec9bf7-74d7-4aa4-a1bd-5a52aab005d8)
 
 다운로드 후 압축을 해제하면 
+![image](https://github.com/user-attachments/assets/fde33dd7-b05b-48a7-904a-2efb51eb6c25)
 
 
 ### ChromeDriver 위치 지정
