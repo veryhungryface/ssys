@@ -53,21 +53,21 @@
 
 ### 크롬드라이버 다운로드
 Chrome을 실행하고 오른쪽 상단의 점 세 개 아이콘을 클릭한 후, 도움말 > Chrome 정보를 선택합니다.​
-버전 정보를 확인합니다. (예: 버전 134.0.6998.178)
+버전 정보를 확인합니다. (예: 버전 136.0.6998.178) 최신버전으로 업데이트하시고,
 
 ChromeDriver 다운로드 링크 https://googlechromelabs.github.io/chrome-for-testing/#stable
 에 접속해서 자신의 Chrome 버전에 맞는 드라이버를 다운로드합니다. 보통은 chromedriver-win64를 받으면 됩니다.
 (다운로드 주소를 복사해서 브라우저에 붙여넣으세요.)​ 
 ![image](https://github.com/user-attachments/assets/97ec9bf7-74d7-4aa4-a1bd-5a52aab005d8)
 
-다운로드 후 압축을 해제하면 
-![image](https://github.com/user-attachments/assets/fde33dd7-b05b-48a7-904a-2efb51eb6c25)
-
 
 ### ChromeDriver 위치 지정
-다운로드한 zip을 풀면 나오는 chromedriver.exe 파일을 성실연수 실행파일과 동일한 폴더에 위치시킵니다.​
+다운로드한 zip을 풀면 
+![image](https://github.com/user-attachments/assets/fde33dd7-b05b-48a7-904a-2efb51eb6c25)
+나오는 chromedriver.exe 파일을 성실연수 실행파일과 동일한 폴더에 위치시킵니다.​
 
 ### 프로그램 재실행
+성공하시길!
 
 ---
 
