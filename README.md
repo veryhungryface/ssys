@@ -55,13 +55,12 @@
 Chrome을 실행하고 오른쪽 상단의 점 세 개 아이콘을 클릭한 후, 도움말 > Chrome 정보를 선택합니다.​
 버전 정보를 확인합니다. (예: 버전 134.0.6998.178)
 
-ChromeDriver 다운로드 링크 https://googlechromelabs.github.io/chrome-for-testing/
+ChromeDriver 다운로드 링크 https://googlechromelabs.github.io/chrome-for-testing/#stable
+에 접속해서 자신의 Chrome 버전에 맞는 드라이버를 다운로드합니다. 보통은 chromedriver-win64를 받으면 됩니다.
+(다운로드 주소를 복사해서 브라우저에 붙여넣으세요.)​ 
+![image](https://github.com/user-attachments/assets/97ec9bf7-74d7-4aa4-a1bd-5a52aab005d8)
 
-에 접속해서 자신의 Chrome 버전에 맞는 드라이버를 다운로드합니다.​
-
-최신 버전크롬에서는 그냥 아래 파일을 받으면됩니다.
-
-https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win64/chrome-win64.zip
+다운로드 후 압축을 해제하면 
 
 
 ### ChromeDriver 위치 지정
